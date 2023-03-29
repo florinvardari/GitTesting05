@@ -6,6 +6,7 @@ public class Main {
         }
         System.out.println("This is are changes" );
         System.out.println("extra  changes" );
+        System.out.println("extra  changes" );
         System.out.println("This is are changes" );
     }
 }
